@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+environs
+jinja2
+
+# dev
+pytest
+requests
+pypeln
+
